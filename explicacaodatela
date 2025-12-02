@@ -1,0 +1,19 @@
+Essa tela:
+
+Mostra um cabeçalho com logo e efeito parallax
+
+Mostra “Welcome!” com animação HelloWave
+
+Explica como editar o projeto
+
+Ensina como abrir o dev menu dependendo da plataforma
+
+Adiciona navegação com Link + menu de ações
+
+Explica como resetar o projeto
+
+Usa tema claro/escuro automaticamente
+
+Usa iOS/Android/Web de forma dinâmica
+
+É parte do template oficial do Expo.
